@@ -1,0 +1,16 @@
+# Ignore the virtual Raspberry Pi
+raspb/
+
+# Ignore Python virtual environments
+venv/
+.venv/
+__pycache__/
+
+# Ignore compiled C/C++ files (common in Computer Architecture)
+*.o
+*.out
+*.exe
+
+# Ignore OS junk
+.DS_Store
+Thumbs.db

@@ -1,0 +1,1 @@
+start "" /d "C:\Path\To\Folder" "yourfile.bat"
