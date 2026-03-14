@@ -1,6 +1,6 @@
 # Ignore the virtual Raspberry Pi
 raspb/
-
+Library/
 # Ignore Python virtual environments
 venv/
 .venv/
